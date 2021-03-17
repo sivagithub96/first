@@ -1,0 +1,6 @@
+#!bin/bash
+a=20
+b=15
+sum= $(( $a + $b ))
+echo $sum
+
