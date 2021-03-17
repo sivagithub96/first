@@ -1,2 +1,4 @@
 this is siva learning devops tools
 siva learnt linux commands
+siva is learning merge conflicts
+
